@@ -1,0 +1,8 @@
+PySide6
+SQLAlchemy
+bcrypt
+reportlab
+openpyxl
+matplotlib
+PyMuPDF
+pyinstaller
